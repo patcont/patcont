@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Patricio</h1>
 <h3 align="center">Motivated and personable, self-taught in programming languages, English speaker and professional educated in automotive electronics diagnostics. Passionate about the future of technology and computing.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patcont" alt="patcont" /></a> </p>
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/patcont?tab=repositories](https://github.com/patcont?tab=repositories)
 
