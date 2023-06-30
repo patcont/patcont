@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import React from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 
@@ -7,7 +6,7 @@ const Card = React.lazy(() => import("./Cards.js"));
 
 function App() {
   return (
-    <div class="all">
+    <div className="all">
       <div className="center-image">
         <img
           src={require("./images/ezgif.com-gif-maker.jpg")}
@@ -17,7 +16,7 @@ function App() {
         ></img>
       </div>
 
-      <div class="cards">
+      <div className="cards">
         <Card></Card>
       </div>
     </div>
